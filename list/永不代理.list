@@ -30,7 +30,7 @@ DOMAIN-KEYWORD,oracle
 DOMAIN-SUFFIX,test-ipv6.com
 PROCESS-NAME,adguard_dns
 PROCESS-NAME,WeChat
-PROCESS-NAME,"Apple Configurator"
+PROCESS-NAME,Apple Configurator
 PROCESS-NAME,DownloadService
 DOMAIN-KEYWORD,sslvpn-
 DOMAIN-SUFFIX,ipw.cn
