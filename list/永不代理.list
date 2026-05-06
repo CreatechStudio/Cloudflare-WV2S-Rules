@@ -1,3 +1,5 @@
+DOMAIN,accelerate.createch.eu.org
+DOMAIN-SUFFIX,icanhazip.com
 DOMAIN-SUFFIX,igem.org
 DOMAIN-SUFFIX,igem.wiki
 DOMAIN-SUFFIX,gov.hk
@@ -6,10 +8,8 @@ DOMAIN-SUFFIX,vfsglobal.com
 PROCESS-NAME,BestIP
 PROCESS-NAME,CloudflareST_darwin_arm64
 DOMAIN-SUFFIX,fireflycloud.net.cn
-DOMAIN-SUFFIX,wgetcloud.org
 DOMAIN,oucc.seedasdan.org
 DOMAIN-SUFFIX,ddns.createchstudio.com
-DOMAIN-SUFFIX,icanhazip.com
 DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,mihoyo.com
@@ -30,7 +30,7 @@ DOMAIN-KEYWORD,oracle
 DOMAIN-SUFFIX,test-ipv6.com
 PROCESS-NAME,adguard_dns
 PROCESS-NAME,WeChat
-PROCESS-NAME,Apple Configurator
+PROCESS-NAME,"Apple Configurator"
 PROCESS-NAME,DownloadService
 DOMAIN-KEYWORD,sslvpn-
 DOMAIN-SUFFIX,ipw.cn
